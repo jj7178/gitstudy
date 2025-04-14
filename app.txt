@@ -31,3 +31,34 @@ So, git pull!
 Technically, git pull is git fetch + git merge
 git fetch means: Bring new commit in repositoty.
 
+git flow/ trunk-based stagedy
+
+// gitflow
+main
+
+develop
+
+feature
+    feature/guild
+    feature/friends
+
+release
+
+finally, merge release to main
+
+hotfix => Immense situation. Like huge bug.
+
+// Trunk-based
+main
+
+feature1
+
+feature 2
+
+Similar to githubflow.
+
+Since use main branch mainly, lots of tests are needed.
+
+git stash
+If what I wrote looks sucks, I can use this to move code in temp.
+

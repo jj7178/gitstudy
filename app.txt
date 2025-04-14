@@ -62,3 +62,7 @@ Since use main branch mainly, lots of tests are needed.
 git stash
 If what I wrote looks sucks, I can use this to move code in temp.
 
+git stash usually used when I need to merge but not completed yet
+while there is code lines that I don want make known to public.
+Then I can just git stash and later stash pop.
+It is technically the same thing with making branch.

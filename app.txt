@@ -16,3 +16,13 @@ I can save my git domain in a variable. Mostly it refers to 'origin".
 In this case, What i do is just git push.
 
 git push!
+
+When I do teamwork, the teammate should need my source code.
+we can git clone mydomain to clone.
+
+Collaborators.
+
+If someone had git push, then I cannot just git push.
+If changes in repositoty detected, I must git pull. Got it.
+git pull https://github.com/jj7178/gitstudy.git Like this.
+    Also, provided that I used dash u => -u it will be automatically remembered.

@@ -25,4 +25,5 @@ Collaborators.
 If someone had git push, then I cannot just git push.
 If changes in repositoty detected, I must git pull. Got it.
 git pull https://github.com/jj7178/gitstudy.git Like this.
-    Also, provided that I used dash u => -u it will be automatically remembered.
+    Also, provided that I used dash u when git push => -u it will be automatically remembered.
+So, git pull!

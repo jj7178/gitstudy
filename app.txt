@@ -14,3 +14,5 @@ I can save my git domain in a variable. Mostly it refers to 'origin".
 
 -u means to remember. So if i had used dash u once, It automatically remembers.
 In this case, What i do is just git push.
+
+git push!

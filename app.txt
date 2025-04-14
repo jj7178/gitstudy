@@ -3,3 +3,14 @@ hello world
 github => coerce to name the Master(main) branch to main.
 with this code I can do this => git branch -M main
 
+How to push my project using git to github.
+=> git push -u mydomain mylocalbranch(=main)
+
+
+If doing the git push thing is making me so weary, do this instead.
+I can save my git domain in a variable. Mostly it refers to 'origin".
+=> git remote add name mydomain (save mydomain in name)
+=> git push -u origin main
+
+-u means to remember. So if i had used dash u once, It automatically remembers.
+In this case, What i do is just git push.

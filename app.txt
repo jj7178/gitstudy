@@ -27,3 +27,7 @@ If changes in repositoty detected, I must git pull. Got it.
 git pull https://github.com/jj7178/gitstudy.git Like this.
     Also, provided that I used dash u when git push => -u it will be automatically remembered.
 So, git pull!
+
+Technically, git pull is git fetch + git merge
+git fetch means: Bring new commit in repositoty.
+

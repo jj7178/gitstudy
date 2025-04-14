@@ -1,1 +1,5 @@
 hello world
+
+github => coerce to name the Master(main) branch to main.
+with this code I can do this => git branch -M main
+
